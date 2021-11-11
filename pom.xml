@@ -11,7 +11,7 @@
 
     <modules>
         <module>spring-ioc</module>
-        <module>tiny-ioc</module>
+        <module>spring</module>
     </modules>
 
     <packaging>pom</packaging>

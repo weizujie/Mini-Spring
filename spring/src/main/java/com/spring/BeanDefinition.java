@@ -1,4 +1,4 @@
-package com.tinyioc;
+package com.spring;
 
 /**
  * @author weizujie
