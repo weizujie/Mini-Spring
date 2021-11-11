@@ -11,7 +11,6 @@
 
     <modules>
         <module>spring-ioc</module>
-        <module>mini-spring-step-01</module>
     </modules>
 
     <packaging>pom</packaging>
