@@ -11,9 +11,10 @@
 
     <modules>
         <module>spring-ioc</module>
+        <module>tiny-ioc</module>
     </modules>
 
-    <packaging>war</packaging>
+    <packaging>pom</packaging>
 
     <dependencies>
 
